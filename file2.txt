@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 asdfas
 ads
 
@@ -6,3 +7,15 @@ asd
 ads
 ads
 ds
+
+bruh2
+asd
+asd
+asda
+s
+a
+as
+
+asd
+as
+>>>>>>> garbage
